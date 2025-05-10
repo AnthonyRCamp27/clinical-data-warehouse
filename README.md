@@ -83,7 +83,7 @@ Make sure the /data and /output folders are in the same directory as main.py.
 Usage logs and updated patient files are saved automatically after each session.
 
 📅 Author & Course Info
-Name: Anthony Campbell
+Name: Anthony Rashad Campbell
 Course: HI 741 – Programming for Health Informatics
 Instructor: Dr. Lu He
 Semester: Spring 2025
